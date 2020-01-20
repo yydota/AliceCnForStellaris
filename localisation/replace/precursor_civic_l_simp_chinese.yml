@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+
+  edict_select_precursor:0 "选择先驱者"
+  edict_select_precursor_desc:0 "手动触发先驱者起始事件"
+  
+  precursor_selection.0.name:0 "选择先驱者"
+  precursor_selection.0.desc:0 "触发对应的起始事件，译名基于Cloud Wu汉化。"
+  precursor_selection.0.a:0 "沃陶姆 (Vultaum Star Assembly)"
+  precursor_selection.0.b:0 "尤特 (Yuht Empire)"
+  precursor_selection.0.c:0 "第一联盟 (First League)"
+  precursor_selection.0.d:0 "伊瑞森 (Irassian Concordat)"
+  precursor_selection.0.e:0 "赛博 (Cybrex)"
+  precursor_selection.0.f:0 "巴奥 (Baol)"
+  precursor_selection.0.g:0 "卓尼 (Zroni)"
+  precursor_selection.0.h:0 "取消"
